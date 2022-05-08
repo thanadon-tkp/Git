@@ -8,6 +8,10 @@
     git remote add origin https://github.com/nuntipatcpe/test.git
     git push -u origin main
 ```
+# Clone
+```
+    git clone https://github.com/nuntipatcpe/test.git // clone file 
+```
 # Branch
 ```
     git branch
@@ -23,8 +27,4 @@
 # Fetch
 ```
    git fetch
-```
-# Clone
-```
-    git clone https://github.com/nuntipatcpe/test.git // clone file 
 ```
