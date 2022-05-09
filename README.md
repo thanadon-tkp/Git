@@ -7,6 +7,7 @@
     git branch -M main
     git remote add origin https://github.com/nuntipatcpe/test.git
     git push -u origin main
+    git push
 ```
 # Clone
 ```
